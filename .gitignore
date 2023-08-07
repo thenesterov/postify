@@ -1,0 +1,6 @@
+web/node_modules
+web/build
+web/npm-debug.log*
+web/yarn-debug.log*
+web/yarn-error.log*
+.env
