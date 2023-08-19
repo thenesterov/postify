@@ -3,12 +3,12 @@
 @tailwind utilities;
 
 body {
-    @apply bg-lodge-100;
+    @apply bg-lodge-1100;
 }
 
 *::selection {
-    @apply bg-flash;
-    @apply text-lodge-100;
+    @apply bg-flash-500;
+    @apply text-lodge-1100;
 }
 
 @font-face {
